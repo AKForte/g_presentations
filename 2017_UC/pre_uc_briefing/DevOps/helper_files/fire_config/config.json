@@ -1,0 +1,19 @@
+{
+    "name": "Fire Department GIS",
+    "logo": "logo.png",
+    "background": "background.png",
+    "banner": "banner.png",
+    "description": "Spatial Data portal for the Fire Department of Los Angeles",
+    "extent": {
+        "type": "extent",
+        "xmin": -13159633.604126614,
+        "ymin": 4044388.6476039286,
+        "xmax": -13145941.30675904,
+        "ymax": 4053939.28118214,
+        "spatialReference": {
+            "wkid": 102100
+        },
+    "homePageFeaturedContent":"id:56206be1519640afb37f632ba98c0b90",
+    "homePageFeaturedContentCount":12
+    }
+}

@@ -1,0 +1,49 @@
+,Fullname,Firstname,Lastname,email,role,username,groups,assigned_state,idpUsername
+0,Aniket Patil,Aniket,Patil,apatil@esri.com,org_admin,anik7857@AVWORLD,"Basemaps, Central Services",KS,AVWORLD\anik7857
+15,Eva Mui,Eva,Mui,emui@esri.com,org_publisher,eva4456@AVWORLD,"Basemaps, Compliance",VA,AVWORLD\eva4456
+45,Rohit Singh,Rohit,Singh,rsingh@esri.com,org_admin,rohi3999@AVWORLD,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",ND,AVWORLD\rohi3999
+1,Anne Reuland,Anne,Reuland,areuland@esri.com,org_admin,reuland@AVWORLD,"Basemaps, Central Services",NV,AVWORLD\reuland
+2,Ashwini Ramesha,Ashwini,Ramesha,ARamesha@esri.com,org_admin,ashw8450@AVWORLD,"Basemaps, Central Services",IN,AVWORLD\ashw8450
+3,Atma Mani,Atma,Mani,AMani@esri.com,org_admin,atma6951@AVWORLD,"Basemaps, Central Services",NC,AVWORLD\atma6951
+4,Aysar Khalid,Aysar,Khalid,AKhalid@esri.com,org_admin,aysa8100@AVWORLD,"Basemaps, Central Services",AR,AVWORLD\aysa8100
+5,Bill Major,Bill,Major,bmajor@esri.com,org_publisher,robe5155@AVWORLD,"Basemaps, Central Services",FL,AVWORLD\robe5155
+6,Blake Stearman,Blake,Stearman,bstearman@esri.com,org_publisher,blak3408@AVWORLD,"Basemaps, Compliance, Central Services",NH,AVWORLD\blak3408
+7,Caroline Wright,Caroline,Wright,cwright@esri.com,org_publisher,caro3510@AVWORLD,"Basemaps, Compliance, Central Services",ID,AVWORLD\caro3510
+8,Catherine Hynes,Catherine,Hynes,CHynes@esri.com,org_publisher,cath7852@AVWORLD,"Basemaps, Compliance, Central Services",AZ,AVWORLD\cath7852
+9,Cherry Lin,Cherry,Lin,clin@esri.com,org_publisher,cher3495@AVWORLD,"Basemaps, Compliance, Central Services",LA,AVWORLD\cher3495
+10,Chris Whitmore,Chris,Whitmore,cwhitmore@esri.com,org_publisher,chri4732@AVWORLD,"Basemaps, Compliance, Central Services",NY,AVWORLD\chri4732
+11,Dan OLeary,Dan,OLeary,DOLeary@esri.com,org_publisher,dan4937@AVWORLD,"Basemaps, Compliance, Central Services",MS,AVWORLD\dan4937
+12,David Cordes,David,Cordes,dcordes@esri.com,org_publisher,davi3690@AVWORLD,"Basemaps, Compliance, Central Services",WI,AVWORLD\davi3690
+13,Derek Weatherbe,Derek,Weatherbe,dweatherbe@esri.com,org_publisher,dere2810@AVWORLD,"Basemaps, Compliance",WA,AVWORLD\dere2810
+14,Eric Miller,Eric,Miller,emiller@esri.com,org_publisher,eric4490@AVWORLD,"Basemaps, Compliance",MI,AVWORLD\eric4490
+16,Fumi Klemski,Fumi,Klemski,fklemski@esri.com,org_publisher,fumi@AVWORLD,"Basemaps, Compliance",TX,AVWORLD\fumi
+17,Garima Tiwari,Garima,Tiwari,GTiwari@esri.com,org_publisher,gari0000@AVWORLD,"Basemaps, Compliance",MA,AVWORLD\gari0000
+18,Gary Sheppard,Gary,Sheppard,GSheppard@esri.com,org_publisher,gary4620@AVWORLD,"Basemaps, Compliance",AL,AVWORLD\gary4620
+19,Gayathri Alallasundaram,Gayathri,Alallasundaram,GAlallasundaram@esri.com,org_publisher,gaya6337@AVWORLD,"Basemaps, Customer Service, Finance, Billing and Accounting",IL,AVWORLD\gaya6337
+20,Javier Gutierrez,Javier,Gutierrez,javier_gutierrez@esri.com,org_publisher,javi5947@AVWORLD,"Basemaps, Customer Service, Finance, Billing and Accounting",NJ,AVWORLD\javi5947
+21,Jay Theodore,Jay,Theodore,jtheodore@esri.com,org_user,jayt@AVWORLD,"Basemaps, Customer Service, Finance, Billing and Accounting",DE,AVWORLD\jayt
+22,Jeff Smith,Jeff,Smith,jeff_smith@esri.com,org_user,jeff6111@AVWORLD,"Basemaps, Customer Service, Finance, Billing and Accounting",PA,AVWORLD\jeff6111
+23,Jianbo Li,Jianbo,Li,jli@esri.com,org_user,jian4992@AVWORLD,"Basemaps, Customer Service, Finance, Billing and Accounting, Central Services",CT,AVWORLD\jian4992
+25,Jose Thomas,Jose,Thomas,jose_thomas@esri.com,org_user,jthomas@AVWORLD,"Basemaps, Demographic Content, Compliance",MT,AVWORLD\jthomas
+26,Julia Yunzhu Shi,Julia,Yunzhu,jshi@esri.com,org_user,juli5163@AVWORLD,"Basemaps, Demographic Content, Compliance",OH,AVWORLD\juli5163
+27,Julio Andrade,Julio,Andrade,jandrade@esri.com,org_user,julio@AVWORLD,"Basemaps, Demographic Content, Compliance",IA,AVWORLD\julio
+28,Kanika Kumar,Kanika,Kumar,kkumar@esri.com,org_user,cont_kani@AVWORLD,"Basemaps, Demographic Content, Compliance",KY,AVWORLD\cont_kani
+29,Kim Peter,Kim,Peter,kpeter@esri.com,org_user,kim4476@AVWORLD,"Basemaps, Demographic Content, Compliance",GA,AVWORLD\kim4476
+30,Laurence Clinton,Laurence,Clinton,lclinton@esri.com,org_user,laur5745@AVWORLD,"Basemaps, Demographic Content, Compliance",WV,AVWORLD\laur5745
+31,Manoj Kulkarni,Manoj,Kulkarni,mkulkarni@esri.com,org_user,manoj@AVWORLD,"Basemaps, Demographic Content, Compliance",MD,AVWORLD\manoj
+32,Marley Geddes,Marley,Geddes,MGeddes@esri.com,org_user,marl8798@AVWORLD,"Basemaps, Demographic Content, Compliance",VT,AVWORLD\marl8798
+33,Moginraj Mohandas,Moginraj,Mohandas,MMohandas@esri.com,org_user,mogi7192@AVWORLD,"Basemaps, Demographic Content, Compliance",AK,AVWORLD\mogi7192
+34,Monoj Kumar Raja,Monoj,Kumar,MRaja@esri.com,org_user,mono6373@AVWORLD,"Basemaps, Demographic Content, Compliance",ME,AVWORLD\mono6373
+35,Nalika Amarasinghe,Nalika,Amarasinghe,NAmarasinghe@esri.com,org_user,nali8821@AVWORLD,"Basemaps, Demographic Content, Central Services",SC,AVWORLD\nali8821
+36,Nathan Diep,Nathan,Diep,NDiep@esri.com,org_user,nath8842@AVWORLD,"Basemaps, Demographic Content, Central Services",WY,AVWORLD\nath8842
+37,Niccole Murphy,Niccole,Murphy,NMurphy@esri.com,org_user,nicc7851@AVWORLD,"Basemaps, Demographic Content, Central Services",UT,AVWORLD\nicc7851
+38,Norbert Piega,Norbert,Piega,NPiega@esri.com,org_user,norb7760@AVWORLD,"Basemaps, Demographic Content, Central Services",NE,AVWORLD\norb7760
+39,Pathik Thakkar,Pathik,Thakkar,pthakkar@esri.com,org_user,path4507@AVWORLD,"Basemaps, Demographic Content, Central Services",PR,AVWORLD\path4507
+40,Peixuan Jiang,Peixuan,Jiang,Peixuan_Jiang@esri.com,org_user,peix8580@AVWORLD,"Basemaps, Demographic Content, Central Services",SD,AVWORLD\peix8580
+41,Peter DSouza,Peter,DSouza,pdsouza@esri.com,org_user,pete3937@AVWORLD,"Basemaps, Demographic Content, Central Services",CA,AVWORLD\pete3937
+42,Philip Heede,Philip,Heede,pheede@esri.com,org_user,phil5223@AVWORLD,"Basemaps, Demographic Content, Central Services",NM,AVWORLD\phil5223
+43,Rajkumar Padmanabhan,Rajkumar,Padmanabhan,rpadmanabhan@esri.com,org_user,rajk3142@AVWORLD,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",TN,AVWORLD\rajk3142
+44,Ravi Narayanan,Ravi,Narayanan,rnarayanan@esri.com,org_user,ravi3531@AVWORLD,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",MO,AVWORLD\ravi3531
+46,Sara Sanchez,Sara,Sanchez,ssanchez@esri.com,org_user,sara5787@AVWORLD,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",OR,AVWORLD\sara5787
+47,Satish Malipeddi,Satish,Malipeddi,smalipeddi@esri.com,org_user,satish@AVWORLD,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",MN,AVWORLD\satish
+49,Shreyas Shinde,Shreyas,Shinde,sshinde@esri.com,org_user,shre5185@AVWORLD,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",CO,AVWORLD\shre5185

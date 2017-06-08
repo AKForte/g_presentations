@@ -1,0 +1,19 @@
+{
+    "name": "Public Works Department GIS",
+    "logo": "logo.png",
+    "background": "background.png",
+    "banner": "banner.png",
+    "description": "Spatial Data portal for the Public Works Department of Los Angeles",
+    "extent": {
+        "type": "extent",
+        "xmin": -13201155.774192503,
+        "ymin": 4022627.0211764453,
+        "xmax": -13172435.34556784,
+        "ymax": 4042640.808925638,
+        "spatialReference": {
+            "wkid": 102100
+        },
+    "homePageFeaturedContent":"id:56206be1519640afb37f632ba98c0b90",
+    "homePageFeaturedContentCount":12
+    }
+}
