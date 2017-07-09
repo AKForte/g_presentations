@@ -17,7 +17,7 @@ try:
         users = csv.DictReader(users_csv)
         for user in users:
             try:
-                print("\nCreating user: " + user['Username'] + " ## ")
+                print("\nCreating user: " + user['Username'], end= " ## ")
                 result = gis.users.create(username=user['Username'],
                                           password=user['Password'],
                                           firstname=user['First Name'],
@@ -27,7 +27,7 @@ try:
                 if result:
                     print("success  ##\n")
 
-                    print("\t Adding to groups:  # ")
+                    print("\t Adding to groups: ", end=" # ")
                     groups = user['groups']
                     group_list = groups.split(",")
 

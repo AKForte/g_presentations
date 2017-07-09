@@ -36,7 +36,7 @@ try:
     print("    Set Enterprise extent")
 
     # set featured groups
-    search_result = dept_gis.groups.search("central_services")
+    search_result = dept_gis.groups.search("Damage Assessment")
     featured_group = None
     if len(search_result) > 0:
         featured_group = search_result[0]

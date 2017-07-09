@@ -28,13 +28,13 @@ try:
             try:
                 data_to_publish = 'user_content/' + row['assigned_zone'] + ".csv"
 
-                print("\nPublishing " + data_to_publish + " # ")
+                print("\nPublishing " + data_to_publish, end= " # ")
                 added_item = gis.content.add({}, data = data_to_publish)
                 published_item = added_item.publish()
 
                 if published_item is not None:
                     # publish web map
-                    print('webmaps' + " ## ")
+                    print('webmaps', end= " ## ")
                     user_webmap_dict = template_webmap_dict
                     user_webmap_dict['operationalLayers'][0].update({'itemId': published_item.itemid,
                                                                      'layerType': "ArcGISFeatureLayer",
@@ -53,7 +53,7 @@ try:
 
                     #Reassign ownership of items to current user. Transfer webmaps in a new
                     # folder with user's last name
-                    print("success. Assigning to: " + "  #  ")
+                    print("success. Assigning to: ", end= "  #  ")
                     result1 = published_item.reassign_to(row['Username'])
                     new_folder_name = row['Last Name'] + "_webmaps"
                     result2 = web_map_item.reassign_to(row['Username'], target_folder=new_folder_name)
