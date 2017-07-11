@@ -3,7 +3,7 @@
 from arcgis.gis import *
 
 try:
-    url = 'https://dev005223.esri.com/portal'
+    url = 'https://dev005514.esri.com/portal'
     username = 'admin'
     password = 'esri.agp'
     print("=====================================================================\n")
